@@ -1,0 +1,6 @@
+{
+  "name": "سلومي",
+  "description": "معرض سلومي لقطع غيار السيارات الفاخرة - Saloumi Auto Parts Store app in modern dark design with real-time inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
